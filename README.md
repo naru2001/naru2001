@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Badge](https://cp-logo.vercel.app/atcoder/ganariya2525)](https://atcoder.jp/users/naru1) 
 <!--
 **naru2001/naru2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
